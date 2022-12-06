@@ -1,4 +1,2 @@
-# odin-recipes
-
-# Writing basic HTML to display some recipes.
+# odin-recipes Writing basic HTML to display some recipes
 
